@@ -1,7 +1,7 @@
 # Daily-Writing-In-2022
 
 ## 1月
-1. [01月](Daily-Writing-In-2022/tree/master/01)
+1. [01月](../01)
 
 ## 02月
 ./02/
