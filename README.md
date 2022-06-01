@@ -1,7 +1,7 @@
 # Daily-Writing-In-2022
 
 ## 1月
-1. [01月](https://gitee.com/miraclewong/daily-writing-in-2022/tree/master/01)
+1. [01月](tree/master/01)
 
 ## 02月
 ./02/
